@@ -46,9 +46,19 @@ En tant que développeur web passionné, je me spécialise dans l'écosystème *
 <br>
 
 ## 💼 Projets
-- [Crumble](https://github.com/iSayZ/Crumble) - Réseau social complet avec messagerie instantanée et notifications via **WebSocket**, gestion d'amis, profil, publications, commentaires, likes, etc... Technologies utilisées : **React, Express.js, MySQL, Socket.IO**.
-- [Spot Lille Art](https://spot-lille-art.utopland.net/) - Référencement participatif d'œuvres de street art, sur la MEL (Métropole Lilloise). Technologies utilisées : **React, Express.js, MySQL**.
-- [Portfolio](http://estrine-alexis.fr) - Découvrez mes projets et mon parcours en développement web ! Technologies utilisées : **React, Tailwind CSS**.
+- [Crumble](https://github.com/iSayZ/Crumble) - Réseau social complet avec messagerie instantanée et notifications via **WebSocket**, gestion d'amis, profil, publications, commentaires, likes, etc... 
+  - **Technologies utilisées :** **React, Express.js, MySQL**.
+  - **[Repo Github](https://github.com/iSayZ/Crumble)**
+
+- [Spot Lille Art](https://spot-lille-art.utopland.net/) - Référencement participatif d'œuvres de street art, sur la MEL (Métropole Lilloise). 
+  - **Technologies utilisées :** **React, Express.js, MySQL**.
+  - **[Repo GitHub](https://github.com/iSayZ/Spot-Lille-Art)**
+
+- [Portfolio](http://estrine-alexis.fr) - Découvrez mes projets et mon parcours en développement web ! 
+  - **Technologies utilisées :** **React, Tailwind CSS**.
+  - **[Repo GitHub](https://github.com/iSayZ/Portfolio)**
+
+> Pour découvrir mes projets plus anciens, n'hésitez pas à explorer mes repositories GitHub où vous trouverez une variété de réalisations et d'expérimentations.
 
 <br>
 
