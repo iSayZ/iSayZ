@@ -2,7 +2,7 @@
 
 > 💡 "Le code n'est pas juste des lignes, c'est une façon de penser et de résoudre des problèmes."
 
-En tant que développeur web passionné, je me spécialise dans l'écosystème **JavaScript**, en mettant l'accent sur **React**, **Node.js**, et **TypeScript**. Mon parcours de reconversion professionnelle m’a non seulement offert une nouvelle direction, mais a aussi attisé ma motivation et ma soif d'apprentissage. Je considère chaque projet comme une opportunité de croissance personnelle et technique, et chaque défi que je rencontre renforce ma détermination à exceller dans ce domaine.
+En tant que développeur web passionné, je me spécialise dans l'écosystème **JavaScript**, en mettant l'accent sur **React**, **Next.js**, **Node.js**, **Nest.js** et **TypeScript**. Mon parcours de reconversion professionnelle m’a non seulement offert une nouvelle direction, mais a aussi attisé ma motivation et ma soif d'apprentissage. Je considère chaque projet comme une opportunité de croissance personnelle et technique, et chaque défi que je rencontre renforce ma détermination à exceller dans ce domaine.
 
 #### 🌐 Mon portfolio -> [https://estrine-alexis.fr](https://www.estrine-alexis.fr/)
 
