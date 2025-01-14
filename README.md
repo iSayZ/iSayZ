@@ -6,6 +6,8 @@ En tant que développeur web passionné, je me spécialise dans l'écosystème *
 
 #### 🌐 Mon portfolio -> [https://estrine-alexis.fr](https://www.estrine-alexis.fr/)
 
+#### 💻 Mon portfolio interactif Windows 11 -> [https://windows.estrine-alexis.fr](https://windows.estrine-alexis.fr/)
+
 #### 🔗 Mes réseaux :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-estrine/)
@@ -25,11 +27,14 @@ En tant que développeur web passionné, je me spécialise dans l'écosystème *
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![API Rest](https://img.shields.io/badge/API%20Rest-000000?style=for-the-badge&logo=api&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,21 +51,23 @@ En tant que développeur web passionné, je me spécialise dans l'écosystème *
 <br>
 
 ## 💼 Projets
-- **[Crumble](https://github.com/iSayZ/Crumble)** - Réseau social complet avec messagerie instantanée et notifications via **WebSocket**, gestion d'amis, profil, publications, commentaires, likes, etc... 
-  - **Technologies utilisées :** **React, Express.js, MySQL**.
-  - **[Repo Github](https://github.com/iSayZ/Crumble)**
+- **[Portfolio Windows 11](https://windows.estrine-alexis.fr/)** - Portfolio interactif recréant l'expérience Windows 11, avec interface complète et fonctionnelle.
+  - **Technologies utilisées :** **Next.js, TypeScript, MongoDB**
+  - **[Repo GitHub](https://github.com/iSayZ/Windows-Portfolio)**
+  - **[Lien du projet](https://windows.estrine-alexis.fr/)**
+    
+<br>
+
+- **[Dashboard de haute sécurité](https://github.com/iSayZ/Dashboard-Nest.js-Next.js)** - Dashboard avec authentification avancée incluant 2FA et gestion de contenu.
+  - **Technologies utilisées :** **Next.js, Nest.js, TypeScript, MongoDB**
+  - **[Repo GitHub](https://github.com/iSayZ/Dashboard-Nest.js-Next.js)**
 
 <br>
 
-- **[Spot Lille Art](https://spot-lille-art.utopland.net/)** - Référencement participatif d'œuvres de street art, sur la MEL (Métropole Lilloise). 
-  - **Technologies utilisées :** **React, Express.js, MySQL**.
-  - **[Repo GitHub](https://github.com/iSayZ/Spot-Lille-Art)**
-
-<br>
-
-- **[Portfolio](http://estrine-alexis.fr)** - Découvrez mes projets et mon parcours en développement web ! 
-  - **Technologies utilisées :** **React, Tailwind CSS**.
-  - **[Repo GitHub](https://github.com/iSayZ/Portfolio)**
+- **[Crumble](https://github.com/iSayZ/Crumble)** - Réseau social complet avec messagerie instantanée et fonctionnalités avancées.
+  - **Technologies utilisées :** **React, Express, MySQL, WebSocket**
+  - **[Repo GitHub](https://github.com/iSayZ/Crumble)**
+  - **[Vidéo de démonstration](https://drive.google.com/file/d/1jPhKJag0I3d0YolTqbz-PhtQclcNMgrf/view)**
 
 <br>
 
